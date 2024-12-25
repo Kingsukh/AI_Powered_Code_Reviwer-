@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 # Configure the API with your API Key
-genai.configure(api_key="AIzaSyAICv8vBurXD_44UKLFgTJlZcwl4pWG1aA")
+genai.configure(api_key="A**************************************A")
 
 # Define the system prompt
 sys_prompt = """You are a helpful AI Code Reviewer for Python.
